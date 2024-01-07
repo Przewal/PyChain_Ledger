@@ -11,16 +11,17 @@ PyChain Ledger is a simple blockchain implementation built using Python and Stre
 * Enter sender, receiver, and amount for a transaction.
 Click "Add Block" to add the transaction to the blockchain.
 
-* View the PyChain Ledger and block details.
+* View the PyChain Ledger and block details. - Right side of the screenshot
 
-* Adjust block difficulty using the slider in the sidebar.
+* Adjust block difficulty using the slider in the sidebar. - Top Left of the screenshot. The difficulty was increased from 2 to 5 for the last sender and receiver with different amounts.
 
-* Select specific blocks for inspection in the Block Inspector.
+* Select specific blocks for inspection in the Block Inspector. - View the second screenshot.
 
-* PyChain Ledger App Screenshot
+* PyChain Ledger App Screenshots
 
 ![PyChain](./Images/app.png)
 
+![PyChain](./Images/app2.png)
 
 ## Notes:
 * Ensure that the sender and receiver addresses are valid inputs.
